@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Science and Machine Learning
 - 🌱 I’m currently learning ... TensorFlow and scrapy libraries
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... brycen,bowers01@gmail.com
+- 📫 How to reach me ... brycen.bowers01@gmail.com
 
 <!---
 BrycenAB/BrycenAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
