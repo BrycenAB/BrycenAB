@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrycenAB
-- 👀 I’m interested in ... Data Science and Machine Learning
+- 👀 I’m interested in ... Data Science, Machine Learning, and AI
 - 🌱 I’m currently learning ... TensorFlow and scrapy libraries
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... brycen.bowers01@gmail.com
