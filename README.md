@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Brycen, a passionate Data Scientist and AI enthusiast, always seeking innovative ways to extract insights from data. I love exploring the fascinating world of Machine Learning and Artificial Intelligence to uncover hidden patterns and make meaningful predictions.
+I'm Brycen, a passionate Data Science and AI student, always seeking innovative ways to extract insights from data. I love exploring the fascinating world of Machine Learning and Artificial Intelligence to uncover hidden patterns and make meaningful predictions.
 
 ## Interests
 
