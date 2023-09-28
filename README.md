@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Brycen, a passionate Data Science and AI student, always seeking innovative ways to solve problems and utilize the massive data reserves we have accumulated. I love exploring the fascinating world of Machine Learning and Artificial Intelligence to uncover hidden patterns and make meaningful predictions.
+I'm Brycen, a passionate computer science student with a focus on data science and AI, always seeking innovative ways to solve problems and utilize the massive data reserves we have accumulated. I love exploring the fascinating world of Machine Learning and Artificial Intelligence to uncover hidden patterns and make meaningful predictions.
 
 ## Interests
 
