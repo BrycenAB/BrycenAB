@@ -11,7 +11,7 @@ I'm Brycen, a passionate computer science student with a focus on data science a
 
 ## Current Focus
 
-I'm currently diving deep into the realm of AI and Big Data Trends, staying updated with the latest breakthroughs and developments. It's an exciting journey, and I'm constantly expanding my knowledge to solve complex problems using cutting-edge techniques.
+I am currently focusing on expanding my knowledge of the different branches of Artificial Intelligence.
 
 ## Collaboration and Impact
 
@@ -19,7 +19,7 @@ I'm actively seeking opportunities to collaborate on projects that create a posi
 
 ## Let's Connect
 
-You can reach me at brycen.bowers01@gmail.com. I'm always excited to connect with fellow professionals, share ideas, and explore new possibilities. Feel free to drop me a message—I'll get back to you as soon as possible!
+You can reach me at brycen.bowers01@gmail.com. I'm always excited to connect with new people, share ideas, and explore new possibilities. Feel free to drop me a message—I'll get back to you as soon as possible!
 
 <!---
 BrycenAB/BrycenAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
