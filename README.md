@@ -11,7 +11,7 @@ I'm Brycen, a passionate computer science student with a focus on data science a
 
 ## Current Focus
 
-I am currently focusing on expanding my knowledge of the different branches of Artificial Intelligence.
+I am currently expanding my knowledge of the different branches of Artificial Intelligence.
 
 ## Collaboration and Impact
 
