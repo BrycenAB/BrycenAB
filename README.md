@@ -1,17 +1,16 @@
 ## About Me
 
-I'm Brycen, a passionate computer science student with a focus on data science and AI, always seeking innovative ways to solve problems and utilize the massive data reserves we have accumulated. I love exploring the fascinating world of Machine Learning and Artificial Intelligence to uncover hidden patterns and make meaningful predictions.
+Brycen - Computer Science enthusiast and student. Currently honing skills in software development. Previously explored data science and AI, now dedicated to crafting robust solutions in the world of software engineering.
 
 ## Interests
 
-- 🔍 Data Science
-- 🤖 Machine Learning
+- 🔍 Software Development
 - 🧠 Artificial Intelligence
 - 🎮 Mixing Game Development With AI
 
 ## Current Focus
 
-I am currently expanding my knowledge of the different branches of Artificial Intelligence.
+I am currently expanding my knowledge on how to create the cleanest, most efficient software possible.
 
 ## Collaboration and Impact
 
