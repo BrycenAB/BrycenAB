@@ -1,6 +1,6 @@
 ## About Me
 
-Brycen - Computer Science enthusiast and student. Currently honing skills in software development. Previously explored data science and AI, now dedicated to crafting robust solutions in the world of software engineering.
+Computer Science enthusiast and student. Currently honing skills in software development. Previously explored data science and AI, now dedicated to crafting robust solutions in the world of software engineering.
 
 ## Interests
 
