@@ -6,6 +6,7 @@ Computer Science enthusiast and student. Currently honing skills in software dev
 
 - 🔍 Software Development
 - 🧠 Artificial Intelligence
+- ⚙  Automation
 - 🎮 Mixing Game Development With AI
 
 ## Current Focus
