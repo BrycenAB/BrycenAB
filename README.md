@@ -1,10 +1,11 @@
 ## About Me
 
-Computer Science enthusiast and student. Currently honing skills in software development, dedicated to crafting robust solutions in the world of software engineering.
+Data Science enthusiast and student. Currently working towards a masters in Data Science, driven by a passion for meaningful AI and software solutions.
 
 ## Interests
 
 - 🧠 Artificial Intelligence
+- 📈 Machine Learning
 - 🎮 Mixing Game Development With AI
 - 📚 Coding/CS Teaching
 
